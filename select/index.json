@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "UNO",
+  "base_artist": "MADEIN",
+  "createdAt": "2026-02-15T18:45:41.460038Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cero a Uno",
+      "artist": "Edelmiro Molinari",
+      "has_synced": true,
+      "path": "select/01_Cero_a_Uno_Edelmiro_Molinari.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Desesperado Secuencia Uno",
+      "artist": "Virus",
+      "has_synced": true,
+      "path": "select/02_Desesperado_Secuencia_Uno_Virus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Talco Uno",
+      "artist": "Jollymusic / Erlend Øye",
+      "has_synced": false,
+      "path": "select/03_Talco_Uno_Jollymusic___Erlend_Øye.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Talco Uno",
+      "artist": "Jollymusic",
+      "has_synced": false,
+      "path": "select/04_Talco_Uno_Jollymusic.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Karate Kid (feat. Uno Freaky)",
+      "artist": "Lil Gotit feat. Uno Freaky",
+      "has_synced": true,
+      "path": "select/05_Karate_Kid_(feat._Uno_Freaky)_Lil_Gotit_feat._Uno_Freaky.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Karate Kid (feat. Uno Freaky)",
+      "artist": "Lil Gotit;Uno Freaky",
+      "has_synced": true,
+      "path": "select/06_Karate_Kid_(feat._Uno_Freaky)_Lil_Gotit;Uno_Freaky.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Wave (feat. Uno Freaky)",
+      "artist": "Lil Gotit",
+      "has_synced": false,
+      "path": "select/07_The_Wave_(feat._Uno_Freaky)_Lil_Gotit.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Talco Uno (Prefuse 73 Unplugged in Catalonia remix)",
+      "artist": "Jollymusic / Erlend Øye",
+      "has_synced": false,
+      "path": "select/08_Talco_Uno_(Prefuse_73_Unplugged_in_Catalonia_remix)_Jollymusic___Erlend_Øye.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Uno Come Te",
+      "artist": "Ivana Spagna",
+      "has_synced": true,
+      "path": "select/09_Uno_Come_Te_Ivana_Spagna.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Whole Thang (feat. Uno The Activist)",
+      "artist": "Playboi Carti feat. UnoTheActivist",
+      "has_synced": false,
+      "path": "select/10_Whole_Thang_(feat._Uno_The_Activist)_Playboi_Carti_feat._UnoTheActivist.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Whole Thang (Feat. Uno The Activist)",
+      "artist": "Playboi Carti",
+      "has_synced": false,
+      "path": "select/11_Whole_Thang_(Feat._Uno_The_Activist)_Playboi_Carti.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beautiful Life (Uno Clio Mix)",
+      "artist": "Ace of Base",
+      "has_synced": false,
+      "path": "select/12_Beautiful_Life_(Uno_Clio_Mix)_Ace_of_Base.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Uno Di Noi",
+      "artist": "Steve Rogers Band",
+      "has_synced": false,
+      "path": "select/13_Uno_Di_Noi_Steve_Rogers_Band.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Come in uno specchio",
+      "artist": "Eugenio Finardi",
+      "has_synced": true,
+      "path": "select/14_Come_in_uno_specchio_Eugenio_Finardi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Il Cuore È Uno Zingaro",
+      "artist": "Nada",
+      "has_synced": true,
+      "path": "select/15_Il_Cuore_È_Uno_Zingaro_Nada.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Il Giorno Di Dolore Che Uno Ha",
+      "artist": "Ligabue",
+      "has_synced": false,
+      "path": "select/16_Il_Giorno_Di_Dolore_Che_Uno_Ha_Ligabue.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UNO",
+      "artist": "MADEIN",
+      "has_synced": false,
+      "path": "select/pl_01_UNO_MADEIN.txt"
+    }
+  ]
+}
